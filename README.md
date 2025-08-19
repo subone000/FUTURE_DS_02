@@ -33,7 +33,7 @@ It highlights how data visualization can uncover patterns in spend, reach, conve
 ---
 
 ## 📂 Repository Contents
-- `assets/dashboard_screenshot` → Preview of the dashboard  
+- `assets/dashboard_screenshot.jpeg` → Preview of the dashboard  
 - `assets/Marketing_Campaign_Dashboard.pdf` → PDF version for quick view  
 - `Marketing_Campaign_Dashboard.pbix` → Interactive Power BI file  
 - `README.md` → Project documentation
@@ -48,5 +48,4 @@ The focus is on **dashboard design, analytics, and storytelling**, not the raw d
 ---
 
 ## 🔗 Connect
-💼 [LinkedIn](your-linkedin-link)  
-📊 [Portfolio Website](your-portfolio-link)  
+💼 [LinkedIn](https://www.linkedin.com/in/sairam-s-2bb678366/)  
